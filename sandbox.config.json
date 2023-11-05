@@ -1,0 +1,4 @@
+{
+  "startScript": "build:serve",
+  "port": "9000"
+}

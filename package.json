@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-adapters-alpha-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-adapters-alpha-demo",
+  "author": "LekoArts",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "build:serve": "gatsby build && gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "alpha-adapters",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.6",
+    "@types/react": "^18.2.9",
+    "@types/react-dom": "^18.2.4",
+    "typescript": "^5.1.3"
+  }
+}
